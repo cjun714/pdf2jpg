@@ -4,6 +4,7 @@ Script to convert PDF to JPEG using Ghostscript library.
 It's just a fork from https://github.com/kubaszostak/pdf-to-jpg .
 
 **How to use:**
+
 Drag and drop Your PDF file to _pdf2jpg.bat_.
 
 ---
@@ -14,6 +15,7 @@ Drag and drop Your PDF file to _pdf2jpg.bat_.
 * [How to use Ghostscript](http://web.mit.edu/ghostscript/www/Use.htm)
 
 **Ghostscript cmd example:**
+
 PDF to JPEG:
 ``` shell
 # input file=xxx.pdf
