@@ -1,6 +1,7 @@
 ## PDF to JPG
 
 Script to convert PDF to JPEG using Ghostscript library.
+
 It's just a fork from https://github.com/kubaszostak/pdf-to-jpg .
 
 **How to use:**
